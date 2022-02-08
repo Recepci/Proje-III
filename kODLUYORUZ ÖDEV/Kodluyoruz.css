@@ -1,0 +1,23 @@
+	body {
+	    text-align: center;
+	}
+	
+	ul li {
+	    list-style-position: inside;
+	}
+	
+	.baslık1 {
+	    color: rgb(228, 21, 21);
+	}
+	
+	.baslık2 {
+	    color: purple;
+	}
+	
+	.baslık3 {
+	    color: rgb(231, 231, 9);
+	}
+	
+	a {
+	    margin: 4px;
+	}
